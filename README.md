@@ -1,18 +1,8 @@
 ### Hi there 👋
 
 
-nischalpandey/nischalpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <h3 align="center">
   Welcome to Nischal Pandey's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -22,7 +12,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/nischalpandey"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=Co-Founder+at+Codekavya.;Administrative+and+Marketing+Head+at+Codekavya.;Student+of+Computer+Engineering."></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bigyanic&label=Profile%20views&color=0e75b6&style=flat" alt="Bigyanic" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bigyanic&label=Profile%20views&color=0e75b6&style=flat" alt="np" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bigyanic" target="blank"><img src="https://img.shields.io/twitter/follow/bigyanic?logo=twitter&style=for-the-badge" alt="Bigyanic" /></a>
 <a href="https://discord.com/channels/@me/673887525479383080">
@@ -30,14 +20,15 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **New Things**
 
-- 📫 How to reach me **admin@nischalpandey** 
+- 📫 How to reach me **admin@nischalpandey.com
+np** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bigyanic" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bigyanic" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bigyan-timilsina/" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bigyan Timilsina" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nischal-pandey/" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nischal" height="30" width="40" /></a>
 <a href="https://fb.com/bigyanic" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bigyanic" height="30" width="40" /></a>
-<a href="https://instagram.com/bigyanic" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Bigyanic" height="30" width="40" /></a>
+<a href="https://instagram.com/bigyanic" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pandeydai" height="30" width="40" /></a>
 </p>
 
 
