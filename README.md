@@ -9,19 +9,12 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/nischalpandey"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=Co-Founder+at+Codekavya.;Administrative+and+Marketing+Head+at+Codekavya.;Student+of+Computer+Engineering."></a>
+  <a href="https://github.com/nischalpandey"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=Co-Founder+at+NGP Developer.;Administrative+and+Marketing+Head+at+Codekavya.;Student+of+Computer+Science."></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bigyanic&label=Profile%20views&color=0e75b6&style=flat" alt="np" /> </p>
-
-<p align="left"> <a href="https://twitter.com/bigyanic" target="blank"><img src="https://img.shields.io/twitter/follow/bigyanic?logo=twitter&style=for-the-badge" alt="Bigyanic" /></a>
-<a href="https://discord.com/channels/@me/673887525479383080">
-    <img alt="chat" title="Talk to me on Discord" src="https://dcbadge.vercel.app/api/shield/673887525479383080"/></a></p>
 
 - 🌱 I’m currently learning **New Things**
 
-- 📫 How to reach me **admin@nischalpandey.com
-np** 
+- 📫 How to reach me **admin@nischalpandey.com.np** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
