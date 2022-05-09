@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <h3 align="center">
-  Welcome to Bigyan Timilsina's profile!
+  Welcome to Nischal Pandey's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://github.com/bigyanic"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=Co-Founder+at+Codekavya.;Administrative+and+Marketing+Head+at+Codekavya.;Student+of+Computer+Engineering."></a>
+  <a href="https://github.com/nischalpandey"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=Co-Founder+at+Codekavya.;Administrative+and+Marketing+Head+at+Codekavya.;Student+of+Computer+Engineering."></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigyanic&label=Profile%20views&color=0e75b6&style=flat" alt="Bigyanic" /> </p>
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 <a href="https://discord.com/channels/@me/673887525479383080">
     <img alt="chat" title="Talk to me on Discord" src="https://dcbadge.vercel.app/api/shield/673887525479383080"/></a></p>
 
-- 🌱 I’m currently learning **React JS** and **Arduino**
+- 🌱 I’m currently learning **New Things**
 
-- 📫 How to reach me **tbigyan9@gmail.com**  ||  **bigyan@codekavya.com**
+- 📫 How to reach me **admin@nischalpandey** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -56,11 +56,10 @@ Here are some ideas to get you started:
 
 ### Github Statistics:
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=bigyanic&hide=contribs,prs&show_icons=true&theme=algolia)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=nischalpandey&hide=contribs,prs&show_icons=true&theme=algolia)
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigyanic&theme=algolia" alt="bigyanic" /></p>
-<br/>
+
 
 ![](https://activity-graph.herokuapp.com/graph?username=bigyanic&custom_title=Bigyan%27s%20Contribution%20Graph&theme=react-dark)
 
@@ -71,7 +70,6 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 
-If you wish to contact me please shoot a mail at bigyan@codekavya.com .
 
 
 
