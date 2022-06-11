@@ -28,7 +28,7 @@
 <br/>
 
 ### Make you motivated from dynamic quotes ☺️
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Languages I use the most:
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
