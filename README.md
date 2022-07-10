@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **New Things**
 
-- 📫 How to reach me **admin@nischalpandey.com.np** 
+- 📫 How to reach me **hello@nischalpandey.com.np** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
