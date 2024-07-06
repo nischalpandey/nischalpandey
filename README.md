@@ -44,7 +44,7 @@
 
 
 
-![](https://activity-graph.herokuapp.com/graph?username=nischalpandey&custom_title=Bigyan%27s%20Contribution%20Graph&theme=react-dark)
+
 
 
 
