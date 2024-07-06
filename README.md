@@ -37,9 +37,7 @@
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=nischalpandey&layout=compact&theme=algolia)](https://github.com/nischalpandey)
 <br/>
 
-### Github Statistics:
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=nischalpandey&hide=contribs,prs&show_icons=true&theme=algolia)
 <br/>
 
 
